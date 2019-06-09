@@ -1,3 +1,6 @@
+// todo
+// have game play sequence from the beginning
+
 var buttonColours = ["red", "blue", "green", "yellow"];
 
 var gamePattern = [];
